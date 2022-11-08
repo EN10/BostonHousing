@@ -1,6 +1,6 @@
 # Boston Housing Dataset Example
 
-* [Review the Data](https://github.com/EN10/BostonHousing/blob/main/Boston_Housing_Linear_Regression.ipynb)
+* [Review the Dataset](https://github.com/EN10/BostonHousing/blob/main/Boston_Housing_Linear_Regression.ipynb)
 * [Learn the Regression](https://github.com/EN10/BostonHousing/blob/main/Boston_Housing_Learn_Regression.ipynb)
 
 ### Key Libraries

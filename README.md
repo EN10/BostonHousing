@@ -1,7 +1,8 @@
 # Boston Housing Dataset Example
 
 * [Review the Dataset](https://github.com/EN10/BostonHousing/blob/main/Boston_Housing_Dataset.ipynb)
-* [Learn the Regression](https://github.com/EN10/BostonHousing/blob/main/Boston_Housing_Learn_Regression.ipynb)
+* [Regression from Scratch](https://github.com/EN10/BostonHousing/blob/main/Boston_Housing_Learn_Regression.ipynb)
+* [Regression with PyTorch](https://github.com/eniompw/BostonHousing/blob/main/Boston_Housing_PyTorch_Regression.ipynb)
 
 ### Key Libraries
 * sklearn.datasets boston

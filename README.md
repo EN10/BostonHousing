@@ -6,6 +6,7 @@
 
 ### Key Libraries
 * sklearn.datasets boston
+  * `!pip install scikit-learn==1.1.3`
 * pandas DataFrame
 * matplotlib histogram & scatter
 * sklearn LinearRegression
